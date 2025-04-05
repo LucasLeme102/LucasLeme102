@@ -50,7 +50,7 @@ Olá, meu nome é Lucas. Comecei a estudar programação em fevereiro de 2025, p
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -58,11 +58,12 @@ Olá, meu nome é Lucas. Comecei a estudar programação em fevereiro de 2025, p
   />
 <p>    
     <img 
-      align="right" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
         style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLeme102&theme=darcula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+<br/>
+<br/>
